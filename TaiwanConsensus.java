@@ -1,9 +1,7 @@
 /*
-使用線上編譯器：
-http://www.compileonline.com/compile_java_online.php
+編譯器：
+https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeoklaejobgleioelladacbeki/related?hl=en
 */
-import static java.lang.System.*;
-
 public class TaiwanConsensus{ private String _subject; private String _oppose; private String _motto;
 
 private String getWill(){
